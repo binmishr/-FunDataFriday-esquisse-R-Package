@@ -23,4 +23,6 @@ library(esquisse)
 
 #To launch the UI and explore the pirates data
 esquisser(pirates)
+
+More details can be found from : https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html
  
